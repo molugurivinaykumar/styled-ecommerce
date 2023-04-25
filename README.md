@@ -1,4 +1,4 @@
-# styled-ecommerce
+# Styled - Ecommerce Website Design Project
 
 ## Project Description
 
