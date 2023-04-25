@@ -13,5 +13,6 @@ The product detail page includes a larger product image, a description, and an o
 Throughout the project, best practices were followed for web development, including the use of responsive design, semantic HTML, and proper code commenting. The website was also tested extensively for cross-browser compatibility and mobile responsiveness. Finally, the website was deployed using GitHub Pages to make it accessible to the public.
 
 Live Website Hosted On: https://molugurivinaykumar.github.io/styled-ecommerce/
+<br>
 Desktop Website Image: ![image](https://user-images.githubusercontent.com/66858598/234350539-eeb0c9c8-b494-4ee1-9376-111dc350c6bb.png)
 Mobile Website Image: ![image](https://user-images.githubusercontent.com/66858598/234350631-f398f40c-3c3c-4c2a-99d9-02fa84355ed5.png)
