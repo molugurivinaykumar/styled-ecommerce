@@ -4,7 +4,12 @@
 
 **Project Overview:** The project is a responsive and styled e-commerce website built using HTML, CSS, and JavaScript. It includes a homepage, product listing page, and product detail page, along with a shopping cart and checkout functionality.
 
+![image](https://user-images.githubusercontent.com/66858598/234350539-eeb0c9c8-b494-4ee1-9376-111dc350c6bb.png)
+
 **Objective & Business Scope:** The objective of this project is to provide a fully functional and visually appealing e-commerce website that can be used by small to medium-sized businesses to showcase and sell their products online. The website is designed to be easy to navigate, provide a seamless shopping experience, and facilitate secure transactions for customers.
+
+![image](https://user-images.githubusercontent.com/66858598/234350631-f398f40c-3c3c-4c2a-99d9-02fa84355ed5.png)
+
 
 **Narrative of Key Steps:** The project started with the creation of a wireframe design for the website layout and functionality. The HTML and CSS were then used to create the website structure and styling, respectively. The homepage includes a header and footer section, a banner slider, and a featured products section. The product listing page displays all available products in a grid format with their images, titles, and prices.
 
